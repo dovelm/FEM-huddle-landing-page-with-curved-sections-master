@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'redes';
+  src:  url('fonts/redes.eot?i8317h');
+  src:  url('fonts/redes.eot?i8317h#iefix') format('embedded-opentype'),
+    url('fonts/redes.ttf?i8317h') format('truetype'),
+    url('fonts/redes.woff?i8317h') format('woff'),
+    url('fonts/redes.svg?i8317h#redes') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'redes' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twitter-square:before {
+  content: "\e900";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
