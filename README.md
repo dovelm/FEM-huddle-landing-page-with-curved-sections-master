@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dovelm/FEM-huddle-landing-page-with-curved-sections-master/main/screenshots/desktop.png)
+![](https://github.com/dovelm/FEM-huddle-landing-page-with-curved-sections-master/tree/main/screenshots/desktop.png)
 
-![](https://github.com/dovelm/FEM-huddle-landing-page-with-curved-sections-master/main/screenshots/mobile.png)
+![](https://github.com/dovelm/FEM-huddle-landing-page-with-curved-sections-master/tree/main/screenshots/mobile.png)
 
 
 ### Links
