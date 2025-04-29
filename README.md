@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dovelm/FEM-nft-preview-card-component-main/blob/main/screenshots/desktop.png)
+![](https://github.com/dovelm/FEM-huddle-landing-page-with-curved-sections-master/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dovelm/FEM-nft-preview-card-component-main/blob/main/screenshots/mobile.png)
+![](https://github.com/dovelm/FEM-huddle-landing-page-with-curved-sections-master/blob/main/screenshots/mobile.png)
 
 
 ### Links
