@@ -9,30 +9,31 @@
   <title>Frontend Mentor | Huddle landing page with curved sections</title>
 </head>
 <body>
-        <nav class="nav">
+    <main class="main"  role="main">
+        <nav class="nav" role="nav">
             <a href="#"><img class="logo" src="images/logo.svg" alt="logo"></a> 
             <button class="btn-secundary">Try it free</button>
         </nav>
-        <header class="header">
+        <header class="header" role="header">
             <h1 class="title">Build The Community Your Fans Will Love</h1>
             <p class="text">Huddle re-imagines the way we build communities. You have a voice, but so does 
               your audience. Create connections with your users as you engage in genuine discussion. </p>
             <button class="btn-primary"> Get Started For Free</button>
             <img class="mockup" src="images/screen-mockups.svg" alt="mockup">
         </header>
-        <section class="section-one">
-          <div class="communities">
+        <section class="section-one" role="communities">
+          <article class="communities">
               <img class="img-person" src="images/icon-communities.svg" alt="communities">
-              <h2 class="title-two"> 1.4k+</h2>
+              <p class="title-two"> 1.4k+</p>
               <p class="text-two">Communities Formed</p>
-          </div>
-          <div class="messages">
+          </article>
+          <article class="messages">
               <img class="img-msg" src="images/icon-messages.svg" alt="messages">
-              <h2 class="title-two">2.7m+</h2>
+              <p class="title-two">2.7m+</p>
               <p class="text-two">Messages Sent</p>
-          </div>
+          </article>
       </section>
-      <section class="section-two">
+      <section class="section-two" role="grow together">
           <div class="shape-top"></div>
           <div class="shape-top-mobile"></div>
           <div class="content">
@@ -92,11 +93,11 @@
                         vestibulum a, ultrices quis sem.</p>
                   <div class="contact">
                         <img class="img" src="images/icon-phone.svg" alt="phone">
-                        <p class="text-six">Phone: +1-543-123-4567</p>
+                        <a class="text-six">Phone: +1-543-123-4567</a>
                   </div>
                   <div class="contact">
                         <img class="img" src="images/icon-email.svg" alt="email">
-                        <p class="text-six">example@huddle.com</p>
+                        <a class="text-six">example@huddle.com</a>
                   </div>
                  
                     <div class="redes-sociales">
@@ -129,6 +130,8 @@
               </p>
           </div>
         </footer>
+    </main>
+       
   <script src="js/valid.js"></script>
 </body>
 </html>
