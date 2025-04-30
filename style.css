@@ -250,6 +250,10 @@
     font-family: var(--secundary-font-family);
     letter-spacing: 0.7px;
 }
+.text-six:hover{
+    color:var(--orange-color);
+    cursor: pointer;
+}
 .title-four{
     margin-bottom: 20px;
     text-transform: uppercase;
